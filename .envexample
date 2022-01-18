@@ -1,0 +1,1 @@
+URI = mongodb+srv:{Username}:{password}@db.os3tn.mongodb.net/{Databsae}?retryWrites=true&w=majority
